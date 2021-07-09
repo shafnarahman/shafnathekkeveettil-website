@@ -570,7 +570,7 @@ p.paragraph:after {
 
 /*-- quote --*/
 .quote{
-    background: url(file:///C:/Users/LENOVO/Downloads/20210304_214857.jpg) no-repeat right;
+/*     background: url(file:///C:/Users/LENOVO/Downloads/20210304_214857.jpg) no-repeat right; */
     background-size: contain;
     position: relative;
     background-repeat: no-repeat;
